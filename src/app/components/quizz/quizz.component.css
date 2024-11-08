@@ -1,0 +1,26 @@
+.quizz-container
+{
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+
+}
+
+.quizz-logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.quizz-logo > h3 {
+  margin-top: 20px;
+}
+
+.quizz-questions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #4224d9;
+}
